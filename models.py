@@ -1,3 +1,5 @@
+# Django를 이용한 모델링
+
 from django.db import models
 
 from apps.utils import FilenameChanger
