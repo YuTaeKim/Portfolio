@@ -1,3 +1,5 @@
+# Django를 이용한 Data Serializing
+
 import random
 import re
 
